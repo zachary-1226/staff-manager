@@ -1,0 +1,10 @@
+{
+  "name": "staff-manager",
+  "version": "1.0.0",
+  "description": "Employee and Department Management System",
+  "author": "Zachary",
+  "scripts": {
+    "start-backend": "python DjangoAPI/start_api.py runserver",
+    "start-frontend": "cd ui/angular10 && npm start"
+  }
+}
